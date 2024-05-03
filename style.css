@@ -53,7 +53,6 @@ img{
 }
 
 #msg{
-    
     background-color: #081b31;
     color: #fff;
     font-size: 2rem;
@@ -61,7 +60,14 @@ img{
     border-radius: 1rem;
     padding:1rem;
     justify-content: center;
-    
+}
 
-
+#reset-btn{
+    height: 5vh;
+    width: 15vw;
+    font-size: 20px;
+    margin-top: 4vh;
+    font-weight: 600;
+    border-radius: 7px;
+    background-color: blanchedalmond;
 }
